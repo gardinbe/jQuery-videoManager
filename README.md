@@ -15,15 +15,17 @@ the video 'template' element(s) must be created first.
 
 please note that (at the moment) you should not create the container for the video element template. this will be done with createVideos()
 
+all the template elements should also have the same class.
+
 examples:
 ```
 <template class="video-player" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ"></template>
 ```
 ```
-<div class="myVideoClass" src="/videos/test-video.mp4"></div>
+<div class="video-player" src="/videos/test-video.mp4"></div>
 ```
 ```
-<span class="video-player-class" src="https://player.vimeo.com/video/11899705"></span>
+<span class="video-player" src="https://player.vimeo.com/video/11899705"></span>
 ```
 etc.
 
