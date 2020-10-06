@@ -16,13 +16,13 @@ createVideos(videoClassName, videoContainerClassName)
 // this method uses the classnames of the video(s) and their container(s), instead of passing through each video seperately - the 'template' element must be created beforehand.
 // example of a template element:
 ```
-
+```
 <template class="video-player" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ"></template>
-
+```
 or
-
+```
 <template class="video-player" src="/videos/test-video.mp4"></template>
-
+```
 etc
 
 pauseAllVideos()
