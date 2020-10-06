@@ -28,10 +28,13 @@ this method uses the classnames of the video(s) and their container(s), instead 
 
 ```javascript
 pauseAllVideos()
-
+```
+```javascript
 pauseVideo(String or Array [videoElmtID])
-
+```
+```javascript
 clearAllVideos()
-
+```
+```javascript
 clearVideo(String or Array [videoElmtID])
 ```
