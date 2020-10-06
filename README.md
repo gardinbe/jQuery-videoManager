@@ -1,4 +1,5 @@
 # jQuery-videoManager
+(this is highly scuffed currently but it works if using the correct video templates. ideally would make it easier to use but too lazy)
 a video manager that can display, play and manage any video with a given URL/source
 
 ## requirements
