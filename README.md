@@ -4,8 +4,6 @@ a video manager that can display, play and manage any video with a given URL/sou
 ## requirements
 jQuery 3.5.1+ **(not tested on previous versions)**
 
-jQuery UI 1.12+ **(not tested on previous versions)**
-
 ## creating the object
 ```javascript
 let videoManager = new VideoManager();
